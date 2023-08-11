@@ -1,6 +1,3 @@
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import './App.css';
 
 import Login from './paginas/login/Login';
@@ -16,7 +13,7 @@ import ListaTemas from './components/temas/listaTemas/ListaTemas';
 import FormularioTema from './components/temas/formularioTema/FormularioTema';
 import DeletarTema from './components/temas/deletarTema/DeletarTema';
 import ListaPostagens from './components/postagens/listaPostagens/ListaPostagens';
-import FormularioPostagem from './components/postagens/formularioPostagem/formularioPostagem';
+import FormularioPostagem from './components/postagens/formularioPostagem/FormularioPostagem';
 
 import Perfil from './paginas/perfil/Perfil';
 import DeletarPostagem from './components/postagens/deletarPostagem/DeletarPostagem';

@@ -1,3 +1,0 @@
-yarn
-
-yarn add react-toastify@9.1.2
